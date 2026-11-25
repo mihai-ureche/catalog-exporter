@@ -7,7 +7,7 @@ title: Privacy Policy
 _Last updated: November 25, 2026_
 
 Catalog Exporter ("the extension") is a browser extension for Chrome and Microsoft Edge, published by
-**[Publisher name]**. It reads a seller's own product listings from Whatnot and saves them as a CSV file
+**Ureche Mihai**. It reads a seller's own product listings from Whatnot and saves them as a CSV file
 on the seller's computer. This policy explains what data the extension handles, where it goes, and how
 to remove it.
 
@@ -83,6 +83,6 @@ Catalog Exporter is an independent tool. It is not made, endorsed or sponsored b
 
 ## Contact
 
-Questions about this policy or your data: **[contact email]**
+Questions about this policy or your data: [mihai.ureche@gmail.com](mailto:mihai.ureche@gmail.com)
 
-**[Publisher name]**, **[publisher address or website]**
+**Ureche Mihai**
